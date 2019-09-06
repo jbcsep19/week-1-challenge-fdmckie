@@ -655,7 +655,7 @@ public class Main {
 
 
 
-        System.out.println(weekendActivity + " " + activitySub + " " + activitySub2 + " " + activitySub3 );
+        //System.out.println(weekendActivity + " " + activitySub + " " + activitySub2 + " " + activitySub3 );
 
 
 
